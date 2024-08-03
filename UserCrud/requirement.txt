@@ -1,0 +1,4 @@
+- Show all users in a table
+- Show a form to add new users
+- Add update and delete button for each user.
+- On click of update button the form should be autofilled.
